@@ -1,6 +1,6 @@
 
 #{'hired':{'be':{'to':{'deserve':'I'}}}}
-input = input("Please input a dictionary using reverse: ")
+input = input("Please input a dictionary without using reverse: ")
 input_value= eval(input)
 #print(input_value)
 
